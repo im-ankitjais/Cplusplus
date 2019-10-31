@@ -10,7 +10,7 @@ If you prefer reading, then these are some of the curated resources you can refe
 - [learncpp: Tutorials to help you master C++](http://www.learncpp.com/)
 - [cplusplus.com: C++ Tutorials](http://www.cplusplus.com/doc/tutorial/)
 
-If you prefer youtube videos, then these are the best ones out there:
+If you prefer youtube videos, then, these are the best ones out there:
 - [Programming in C++ Playlist](https://www.youtube.com/playlist?list=PLdFUT7614Oi6Jb5aqm87gZu_Jqw1igAGB)
 
 If you prefer MOOCs, then refer the following:
